@@ -1,7 +1,4 @@
-import java.io.*;
-import java.util.*;
-
-public class Main {
+// Using Recursion -------------------
     public static int CS_Rec(int n)
     {
         // base case
@@ -20,6 +17,7 @@ public class Main {
         return ans;
     }
 
+// Using DP - memoization
     // MEMOIZATION METHOD i.e dp
     public static int CS_Memo(int n,int dp[])
     {
@@ -44,7 +42,7 @@ public class Main {
         return ans;
     }
 
-    // Tabulation
+    // DP - Using Tabulation
     
     public static int CS_tab(int n,int dp[])
     {
@@ -72,19 +70,19 @@ public class Main {
 
 
 
-    public static void main(String[] args) throws Exception {
-        // write your code here
-        Scanner scn=new Scanner(System.in);
-        int n=scn.nextInt();
-        // use for dp
-        int dp[]=new int[n+1];
-         Arrays.fill(dp, -1);
+//     public static void main(String[] args) throws Exception {
+//         // write your code here
+//         Scanner scn=new Scanner(System.in);
+//         int n=scn.nextInt();
+//         // use for dp
+//         int dp[]=new int[n+1];
+//          Arrays.fill(dp, -1);
 
-        // int ans=CS_Rec(n);
-        // int ans=CS_Memo(n,dp);
-        int ans=CS_tab(n,dp);
-        System.out.println(ans);
+//         // int ans=CS_Rec(n);
+//         // int ans=CS_Memo(n,dp);
+//         int ans=CS_tab(n,dp);
+//         System.out.println(ans);
 
-    }
+//     }
 
-}
+// }
