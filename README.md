@@ -1,4 +1,4 @@
-# 1. Basic - Pattern, 1D Array, Function
+# 🟥1. Basic - Pattern, 1D Array, Function
 1. Digit of A Number
 1. Inverse Number
 1. Rotate a Number
@@ -23,11 +23,11 @@
 9. SubArray
 10. Subset of Array
 
-# 2. Binary Search
+# 🟥2. Binary Search
 1. Search in Array 
 2. Broken Economy 
 
-# 3. 2D Array
+# 🟥3. 2D Array
 1. Basic Understanding 
 2. State of wakanda-1
 3. Spiral Display
@@ -39,7 +39,7 @@
 9. Exit point of A Matrix
 10. Matrix Multiplication
 
-# 4. String
+# 🟥4. String
 1. Basic theory of (StringBuilder, SubArray, charAt etc.)
 2. Print all palindromic Substring
 3. String Compression
@@ -50,8 +50,8 @@
 8. Print String Seperatally
 
 
-# 5. Recursion
-## Basic
+# 🟥5. Recursion
+## 🟡 Basic
 1. Print Decreasing (using recursion)
 2. Print Increasing 
 3. Factorial
@@ -64,13 +64,13 @@
 10.0 First index in Array<br>
 10.1 Last Index in Array<br>
 10.3 All indices of Array<br>
-## Recursion with ArrayList
+## 🟡 Recursion with ArrayList
 1. Get Subsequence
 2. Get stair path
 3. Get Maze path<br>
 3.1 Get maze path with Jump<br>
 4. Get KPC
-## Recursion with Way Up
+## 🟡Recursion with Way Up
 5. Print Subsequence
 6. Print stair path
 7. Print Maze path<br>
@@ -78,10 +78,10 @@
 9. Print KPC<br>
 10 . Print Premutation <br>
 11. Print Encoding - VVI
-## Recursion and Backtraking
+## 🟡Recursion and Backtraking
 1. N-Queue Problem 
 
-# 6. Time Complexity
+# 🟥6. Time Complexity
 1. Bubble Sort
 2. Selection Sort
 3. Insertion Sort
@@ -95,7 +95,7 @@
 8.2 Quick Select
 9. Count Sort
 
-# 7. Stack and Queue
+# 🟥7. Stack and Queue
 1. Duplicate Bracket
 1. Duplicate Bracket
 2. Next Greater on Right - VVI 
@@ -118,13 +118,20 @@
 10 . Merge overllapping Interval - VVI
 
 
-# 8. LinkedList
-# 9. Generic Tree
-# 10. Binary Tree
-# 11. Binary Search Tree
-# 12. DP
-# 13 Graph
-# 14 HashMap
+#  🟥8. LinkedList
+## 🟡
+#  🟥9. Generic Tree
+## 🟡
+#  🟥10. Binary Tree
+## 🟡
+#  🟥11. Binary Search Tree
+## 🟡
+#  🟥12. DP
+## 🟡
+#  🟥13 Graph
+## 🟡
+#  🟥14 HashMap
+## 🟡
 
 ## Quetions 
 
@@ -132,34 +139,34 @@
 
 
 # Syllabus
-Basics of Programming  
-    .JAVA for C++ Coders
-    .Getting Started
-    .Patterns
-    .Heap 2
-    .Function and Arrays
-    .2D Arrays
-    .String, String Builder and ArrayList
-Recursion and Backtracking  
-    .Introduction to Recursion
-    .Recursion in Arrays
-    .Recursion with Arraylists
-    .Recursion on the way up
-    .Recursion Backtracking
-Dynamic Programming  
-    .Dynamic Programming and Greedy
-    .Time and Space Complexity
-OOPS  
-    .OOPS
-Basic Data Structures  
-    .Stacks and Queues
-    .Linked Lists
-    .Generic Tree
-    .Binary Tree
-    .Binary Search Tree
-Advanced Data Structure  
-    .Hashmap And Heap
-    .Graphs
-Miscellaneous  
-    .JAVA for C++ Coders
-    .LeetCode
+### Basics of Programming**
+- ➡️ JAVA for C++ Coders<br>
+- ➡️Getting Started<br>
+- ➡️Patterns<br>
+- ➡️Heap 2<br>
+- ➡️Function and Arrays<br>
+- ➡️2D Arrays<br>
+- ➡️String, String Builder and ArrayList<br>
+### Recursion and Backtracking 
+- ➡️Introduction to Recursion
+- ➡️Recursion in Arrays<br>
+- ➡️Recursion with Arraylists<br>
+- ➡️Recursion on the way up<br>
+- ➡️Recursion Backtracking<br>
+### Dynamic Programming <br> 
+- ➡️Dynamic Programming and Greedy<br>
+- ➡️Time and Space Complexity
+### OOPS  
+- ➡️OOPS
+### Basic Data Structures  
+- ➡️Stacks and Queues
+- ➡️Linked Lists
+- ➡️Generic Tree
+- ➡️Binary Tree
+- ➡️Binary Search Tree
+### Advanced Data Structure  
+- ➡️Hashmap And Heap
+- ➡️Graphs
+### Miscellaneous  
+- ➡️JAVA for C++ Coders
+- ➡️LeetCode
